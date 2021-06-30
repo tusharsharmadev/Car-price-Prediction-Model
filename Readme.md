@@ -8,7 +8,7 @@
 
 * Discord Usernames of TEAM MEMBERS on our Discord Server (Technothon 1.0) : Tushar Sharma | Organizer
 
-* Detailed Explanation of the Idea : This ia a Car Prediction Model which predicts the prices of the cars based on their specifications such as (fuel type, Engine etc)
+* Detailed Explanation of the Idea : This is a Car Prediction Model which predicts the prices of the cars based on their specifications such as (fuel type, Engine etc)
 
 * Solution provided : This model makes it easy to predict the exacg price just by entering the following attributes.
 
