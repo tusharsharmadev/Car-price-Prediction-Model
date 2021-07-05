@@ -1,12 +1,4 @@
-* Name of the team/Single Participant Name : Tushar Sharma 
 
-* Number of Members in a Team : 1
-
-* College : Amity university Mumbai
-
-* Theme of the Project : Open Innovation
-
-* Discord Usernames of TEAM MEMBERS on our Discord Server (Technothon 1.0) : Tushar Sharma | Organizer
 
 * Detailed Explanation of the Idea : This is a Car Prediction Model which predicts the prices of the cars based on their specifications such as (fuel type, Engine etc)
 
